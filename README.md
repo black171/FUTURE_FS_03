@@ -1,64 +1,62 @@
-🥩 Tubatse Royal Grill - Restaurant Landing Page
-📌 Project Overview
-This is a premium, high-conversion landing page developed as part of Full Stack Web Development (FS) Task 3.
+# 🥩 Tubatse Royal Grill - Restaurant Landing Page
 
-The project focuses on transforming a traditional local business into a digital brand. The website showcases:
+## 📌 Project Overview
 
-The Experience: Narrative-driven content on the benefits of flame-grilled food and community connection.
+This is a restaurant landing page developed as part of the **Full Stack Web Development (FS) Task 3**.
 
-12-Item Digital Menu: A comprehensive, categorized signature platter grid.
+The website showcases:
 
-Social Proof: An interactive guest review system.
+* The dining experience
+* Digital menu (signature platters)
+* Customer reviews (social proof)
+* Booking and contact information
+* WhatsApp ordering integration
 
-Direct Conversion: Integrated WhatsApp ordering and a refined booking UI.
+## 🚀 Live Website
 
-🚀 Live Website
 👉 [Insert Your GitHub Pages Link Here]
 
-🛠️ Technologies Used
-HTML5 & CSS3: Custom "Royal" UI kit with CSS variables and advanced layout techniques.
+## 🛠️ Technologies Used
 
-Bootstrap 5: For a robust responsive grid and professional navigation components.
+* HTML5
+* CSS3
+* Bootstrap 5
+* JavaScript (ES6)
+* Font Awesome
 
-JavaScript (ES6): Custom Scroll-Spy logic for real-time navigation tracking.
+## 📂 Project Structure
 
-Font Awesome: Premium iconography for better UX guidance.
+index.html  
+css/  
+images/  
 
-📂 Project Structure
-index.html - Main structure and content.
+## ⚙️ Setup & Deployment
 
-css/styles.css - Custom styling and responsive overrides.
+### Run locally:
 
-images/ - Optimized high-resolution food and branding assets.
+1. Download or clone the repository  
+2. Open `index.html` in your browser  
 
-⚙️ Setup & Deployment
-Run locally:
+### Deployment:
 
-Clone the repository: git clone https://github.com/black171/FUTURE_FS_03.git
+This project is deployed using **GitHub Pages**:
 
-Open index.html in your preferred browser.
+1. Uploaded project files to GitHub  
+2. Enabled GitHub Pages from repository settings  
+3. Selected main branch as source  
 
-Deployment:
-This project is deployed via GitHub Pages:
+## ✨ Features
 
-Repository pushed to GitHub.
+* Responsive design (mobile-first)
+* Smooth scrolling navigation
+* ScrollSpy active navigation
+* Interactive menu section
+* WhatsApp order button
+* Contact & booking form UI
 
-GitHub Pages enabled under Settings > Pages.
+## 📬 Contact
 
-Deployed from the main branch.
+📧 Email: [morabakarabo0000@email.com](mailto:morabakarabo0000@email.com)  
+🔗 LinkedIn: https://www.linkedin.com/in/moraba-lekoba-346aa0323  
 
-✨ Key Features
-Mobile-First Responsive Design: Optimized for seamless viewing on smartphones (crucial for restaurant customers).
-
-"Royal" Aesthetic: A sophisticated Light & Gold theme that elevates the business brand.
-
-Interactive Elements: Hover-sensitive menu cards and smooth-scroll navigation.
-
-Call-to-Action (CTA) Focus: Strategically placed buttons to drive table bookings and orders.
-
-📬 Contact
-📧 Email: morabakarabo0000@email.com
-
-🔗 LinkedIn: Karabo Moraba
-
-© 2026 Karabo Moraba - Full Stack Developer | Future Interns Milestone
+© 2026 Karabo Moraba - Full Stack Developer | Future Interns
